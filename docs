@@ -1,0 +1,10 @@
+npm init
+npm install express@4
+
+create index js 
+
+node index.js 
+
+create index.html
+
+npm install socket.io
